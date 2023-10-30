@@ -1,11 +1,11 @@
 
-# Talk-A-Tive
+# Chit-Chat Hub
 
-Talk-a-tive is a Full Stack Chatting App.
+Chit-Chat Hub is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
-**Client:** React JS
+**Client Side:** HTML, CSS, React JS
 
 **Server:** Node JS, Express JS
 
@@ -36,21 +36,28 @@ Start the Client
 ```
 
   
-# Features
+# Features: 
 
-### Authenticaton
+### Authenticaton 
+signup.PNG
+login.PNG
+
+### Main Screen
+mainscreen.PNG
 
 ### Real Time Chatting with Typing indicators
+real-time.PNG
 
 ### One to One chat
 
 ### Search Users
+search.PNG
 
 ### Create Group Chats
+new grp.PNG
 
 ### Notifications 
-
-### Add or Remove users from group
+group + notid.PNG
 
 ### View Other user Profile
 
