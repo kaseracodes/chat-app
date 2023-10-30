@@ -39,27 +39,23 @@ Start the Client
 # Features: 
 
 ### Authenticaton 
-signup.PNG
-login.PNG
+![Sign up page](./screenshots/signup.PNG)
+![Login page](./screenshots/login.PNG)
 
 ### Main Screen
-mainscreen.PNG
+![Main Screen](./screenshots/mainscreen.PNG)
 
 ### Real Time Chatting with Typing indicators
-real-time.PNG
-
-### One to One chat
+![RTC](./screenshots/real-time.PNG)
 
 ### Search Users
-search.PNG
+![Search Users](./screenshots/search.PNG)
 
 ### Create Group Chats
-new grp.PNG
+![Group Chatting](./screenshots/new-grp.PNG)
 
-### Notifications 
-group + notid.PNG
-
-### View Other user Profile
+### Notifications
+![Notifications](./screenshots/notif.PNG)
 
 ## Made By
 
