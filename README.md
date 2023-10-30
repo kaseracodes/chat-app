@@ -62,4 +62,4 @@ Start the Client
 - [@ShivamKasera](https://github.com/kaseracodes)
 
   
-# chat-app
+# Chit-Chat Hub
